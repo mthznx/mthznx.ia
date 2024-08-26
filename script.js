@@ -6,24 +6,24 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual é a principal causa das mudanças climáticas e como podemos mitigá-las?",
+        enunciado: "Como podemos evitar o racismo?",
         alternativas: [
             {
-                texto: "A principal causa é o aumento das emissões de gases de efeito estufa. Podemos mitigá-las reduzindo essas emissões através da transição para fontes de energia renováveis e melhorando a eficiência energética.",
-                afirmacao: "Você compreendeu que a mitigação das mudanças climáticas envolve mudanças significativas em como usamos e gerenciamos nossos recursos."
+                texto: "Para evitar o racismo em ambientes de estudo, é essencial promover uma educação inclusiva e diversificada. Isso inclui treinar professores sobre viés inconsciente.",
+                afirmacao: "Voce compreendeu que garantir que o currículo reflita diferentes culturas e perspectivas. ."
             },
             {
-                texto: "A principal causa é o aumento do consumo de água. Podemos mitigá-las reduzindo o consumo e promovendo a conservação da água.",
-                afirmacao: "Você percebeu que a questão das mudanças climáticas envolve uma ampla gama de fatores, não se limitando apenas ao consumo de água."
+                texto: "A principal causa é o aumentode bullyng racial nas escolas.",
+                afirmacao: "Você percebeu que a questão das pessoas fazerem racismo com pessoas negras é um crime gravissimo ."
             }
         ]
     },
     {
-        enunciado: "Como a poluição do ar afeta a saúde humana e o que pode ser feito para reduzir suas emissões?",
+        enunciado: "Como evitar o racismo na escola?",
         alternativas: [
             {
-                texto: "A poluição do ar pode causar doenças respiratórias e cardiovasculares. Para reduzir as emissões, é importante implementar normas rigorosas e promover o uso de transporte sustentável.",
-                afirmacao: "Você entendeu que reduzir a poluição do ar é essencial para proteger a saúde humana e que várias medidas podem ser tomadas para alcançar isso."
+                texto: " Também é importante fomentar um ambiente onde alunos se sintam seguros para expressar suas preocupações.",
+                afirmacao: "Você entendeu."
             },
             {
                 texto: "A poluição do ar não tem grandes impactos na saúde humana. Podemos reduzir a poluição através de práticas de reciclagem.",
