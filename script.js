@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Para evitar o racismo em ambientes de estudo, é essencial promover uma educação inclusiva e diversificada. Isso inclui treinar professores sobre viés inconsciente.",
-                afirmacao: "Voce compreendeu que garantir que o currículo reflita diferentes culturas e perspectivas. ."
+                afirmacao: "Voce compreendeu que garantir que e acontecimentos tem que parar. ."
             },
             {
                 texto: "A principal causa é o aumentode bullyng racial nas escolas.",
@@ -26,13 +26,13 @@ const perguntas = [
                 afirmacao: "Você entendeu."
             },
             {
-                texto: "A poluição do ar não tem grandes impactos na saúde humana. Podemos reduzir a poluição através de práticas de reciclagem.",
+                texto: ".",
                 afirmacao: "Você percebeu que a poluição do ar tem efeitos significativos na saúde e que as soluções são mais complexas do que apenas reciclagem."
             }
         ]
     },
     {
-        enunciado: "Quais são as principais consequências do desmatamento e como ele pode ser combatido?",
+        enunciado: " O ultimate objetivo é construir um espaço seguro e igualitário para todos.?",
         alternativas: [
             {
                 texto: "O desmatamento causa perda de biodiversidade e aumento das emissões de CO₂. Pode ser combatido com práticas de manejo sustentável e recuperação de áreas degradadas.",
