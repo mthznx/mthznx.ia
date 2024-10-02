@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: ".",
-                afirmacao: "Você percebeu que a poluição do ar tem efeitos significativos na saúde e que as soluções são mais complexas do que apenas reciclagem."
+                afirmacao: "Você percebeu que o racismo/preconceito com o proximo é um crime ."
             }
         ]
     },
