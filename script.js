@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como podemos evitar o racismo?",
+        enunciado: "Como evitar o racismo?",
         alternativas: [
             {
                 texto: "Para evitar o racismo em ambientes de estudo, é essencial promover uma educação inclusiva e diversificada. Isso inclui treinar professores sobre viés inconsciente.",
@@ -35,20 +35,20 @@ const perguntas = [
         enunciado: " O ultimate objetivo é construir um espaço seguro e igualitário para todos.?",
         alternativas: [
             {
-                texto: "O desmatamento causa perda de biodiversidade e aumento das emissões de CO₂. Pode ser combatido com práticas de manejo sustentável e recuperação de áreas degradadas.",
-                afirmacao: "Você compreendeu que o desmatamento tem consequências graves e que há várias estratégias para combatê-lo."
+                texto: "o racismo causa um forte descontrole mental na vitima.",
+                afirmacao: "Você compreendeu que o racismo pode acabar até em suicidio."
             },
             {
-                texto: "O desmatamento não tem grandes consequências. Pode ser combatido com o aumento da produção de alimentos.",
-                afirmacao: "Você percebeu que o desmatamento é um problema significativo e que soluções eficazes vão além da produção de alimentos."
+                texto: "O racismo pode causar até depressão na vitima.",
+                afirmacao: "Você compreendeu que o racismo pode acabar até em suicidio."
             }
         ]
-    },
+    },Você compreendeu que o racismo pode acabar até em suicidio
     {
-        enunciado: "Como a agricultura sustentável pode ajudar a proteger a biodiversidade e melhorar a segurança alimentar?",
+        enunciado: "Como evitar o racismo?",
         alternativas: [
             {
-                texto: "A agricultura sustentável adota práticas que preservam habitats e promovem a biodiversidade, além de melhorar a produtividade e a resiliência das culturas.",
+                texto: "o racismo causa um forte descontrole mental na vitima.",
                 afirmacao: "Você entendeu que a agricultura sustentável é fundamental para equilibrar a produção de alimentos e a proteção ambiental."
             },
             {
@@ -79,7 +79,7 @@ let historiaFinal = "";
 function mostraPergunta() {
     if (atual >= perguntas.length) {
         mostraResultado();
-        return;
+        return; a agricultura sustentável pode ajudar a proteger a biodiversidade e melhorar a segurança alimentar
     }
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
