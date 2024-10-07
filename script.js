@@ -43,30 +43,30 @@ const perguntas = [
                 afirmacao: "Você compreendeu que o racismo pode acabar até em suicidio."
             }
         ]
-    },Você compreendeu que o racismo pode acabar até em suicidio
+    },Você compreendeu que o racismo pode acabar até em suicidioo racismo causa um forte descontrole mental na vitima.
     {
         enunciado: "Como evitar o racismo?",
         alternativas: [
-            {
+            {rigoso e é um rime gravissim
                 texto: "o racismo causa um forte descontrole mental na vitima.",
-                afirmacao: "Você entendeu que a agricultura sustentável é fundamental para equilibrar a produção de alimentos e a proteção ambiental."
+                afirmacao: "Você entendeu que o racismo e preconceito são um gatilho para a pessoa se suicidar."
             },
-            {
-                texto: "A agricultura sustentável não tem impacto na biodiversidade e só melhora a produtividade.",
-                afirmacao: "Você percebeu que a agricultura sustentável tem um papel importante na preservação da biodiversidade além de melhorar a produtividade."
+            {.
+                texto: " o racismo pode causar um ipacto muito grande na vida da vitima.",
+                afirmacao: "Você percebeu que praticar racismo é muito perigoso e é um rime gravissimo."
             }
         ]
     },
     {
-        enunciado: "O que são energias renováveis e quais são seus benefícios em comparação com fontes de energia não renováveis?",
+        enunciado: "O que pode acontecer se praticar o racismo?",
         alternativas: [
             {
-                texto: "Energias renováveis são fontes que se regeneram naturalmente, como solar e eólica. Seus benefícios incluem menor impacto ambiental e sustentabilidade a longo prazo.",
-                afirmacao: "Você aprendeu que as energias renováveis são mais sustentáveis e têm um impacto ambiental significativamente menor."
+                texto: "o racismo causa um forte descontrole mental na vitima.",
+                afirmacao: "Você percebeu que o racismo/preconceito com o proximo é um crime ."
             },
-            {
-                texto: "Energias renováveis são apenas uma alternativa temporária. As fontes não renováveis ainda são mais eficazes e baratas.",
-                afirmacao: "Você percebeu que, apesar de serem mais caras no início, as energias renováveis oferecem benefícios a longo prazo que justificam seu investimento."
+            {.
+                texto: " o racismo pode causar um ipacto muito grande na vida da vitimas.",
+                afirmacao: "Você percebeu que praticar racismo é muito perigoso e é um rime gravissimo."
             }
         ]
     }
@@ -89,7 +89,7 @@ function mostraPergunta() {
 
 function mostraAlternativas(){
     for(const alternativa of perguntaAtual.alternativas) {
-        const botaoAlternativas = document.createElement("button");
+        const botaoAlternativas = document.createElement("button"); o racismo pode causar um ipacto muito grande na vida da vitima
         botaoAlternativas.textContent = alternativa.texto;
         botaoAlternativas.addEventListener("click", () => respostaSelecionada(alternativa));
         caixaAlternativas.appendChild(botaoAlternativas);
